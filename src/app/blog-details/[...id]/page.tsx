@@ -7,7 +7,7 @@ import FooterTwo from "@/layouts/footers/FooterTwo";
 import HeaderOne from "@/layouts/headers/HeaderOne";
 
 export const metadata = {
-   title: "Blog Details Zaira - News Magazine React Next Js Template",
+   title: "Evanston AI - Local Newsroom",
 };
 const index = ({ params }: { params: { id: number } }) => {
 
